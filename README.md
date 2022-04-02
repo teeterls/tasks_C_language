@@ -1,2 +1,2 @@
 # tasks_C_language
-Simple tasks and more complete projects developed in C language 
+Different complexity tasks and projects developed in C language 
