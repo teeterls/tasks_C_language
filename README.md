@@ -33,6 +33,7 @@ More complex use of pointers (scalar product of 2 arrays, replacements between 2
 Simple functions with structures (read/write data with and without pointers) and development of a simple traffic ticket controlling system
 
 ### 11. Task 11
+Files maganement (read/write .txt files and improve simple traffic ticket controlling system project including files management as reports)
 
 ### 12. Task 12
 
