@@ -30,6 +30,7 @@ Basic use of pointers, wich are variables that store the memory address of an ob
 More complex use of pointers (scalar product of 2 arrays, replacements between 2 strings, prime numbers or in arrays)
 
 ### 10. Task 10
+Simple functions with structures (read/write data with and without pointers) and development of a simple traffic ticket controlling system
 
 ### 11. Task 11
 
